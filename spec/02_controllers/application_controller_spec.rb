@@ -1,4 +1,4 @@
-describe ApplicationController do
+ describe ApplicationController do
   let(:bakery1) { Bakery.first }
   let(:bakery2) { Bakery.second }
   let(:baked_good) { BakedGood.first }
